@@ -71,7 +71,82 @@ My approach combines user-centered thinking, strong visual hierarchy, and respon
 ## Selected Work
 
 <details open>
-<summary><b>Personal Portfolio</b> — a curated presentation of my design work</summary>
+<summary><b>Casa Nord</b> — refined real-estate web experience</summary>
+<br/>
+
+| Focus | Details |
+|:---|:---|
+| **Category** | Real Estate & Lifestyle |
+| **Design Direction** | Clean, welcoming, and editorial |
+| **Experience** | Responsive website with clear visual hierarchy |
+| **Live Project** | [Visit Casa Nord](https://casa-nord.netlify.app/) |
+
+A warm, contemporary digital presence designed to communicate quality, comfort, and a strong sense of place.
+
+</details>
+
+<details>
+<summary><b>Juniper Table</b> — modern dining concept</summary>
+<br/>
+
+| Focus | Details |
+|:---|:---|
+| **Category** | Restaurant & Hospitality |
+| **Design Direction** | Natural, elegant, and inviting |
+| **Experience** | Responsive presentation focused on atmosphere and content |
+| **Live Project** | [Visit Juniper Table](https://juniper-table.netlify.app/) |
+
+A polished restaurant experience that uses layout, typography, and visual rhythm to build an inviting brand presence.
+
+</details>
+
+<details>
+<summary><b>Valea Obscura</b> — atmospheric destination experience</summary>
+<br/>
+
+| Focus | Details |
+|:---|:---|
+| **Category** | Travel & Storytelling |
+| **Design Direction** | Immersive, mysterious, and cinematic |
+| **Experience** | Narrative-led responsive website |
+| **Live Project** | [Visit Valea Obscura](https://valea-obscura.netlify.app/) |
+
+An immersive concept that combines atmosphere and storytelling to guide visitors through a distinctive digital world.
+
+</details>
+
+<details>
+<summary><b>The Long Play</b> — editorial music experience</summary>
+<br/>
+
+| Focus | Details |
+|:---|:---|
+| **Category** | Music & Culture |
+| **Design Direction** | Bold, expressive, and editorial |
+| **Experience** | Responsive content-focused interface |
+| **Live Project** | [Visit The Long Play](https://the-long-play.netlify.app/) |
+
+A visual exploration of music culture shaped through expressive typography, structured content, and an editorial design language.
+
+</details>
+
+<details>
+<summary><b>Aperture Architects</b> — architecture studio website</summary>
+<br/>
+
+| Focus | Details |
+|:---|:---|
+| **Category** | Architecture & Creative Studio |
+| **Design Direction** | Minimal, precise, and image-led |
+| **Experience** | Responsive portfolio presentation |
+| **Live Project** | [Visit Aperture Architects](https://aperture-arhitects.netlify.app/) |
+
+A minimalist studio presence designed to let architectural work lead while maintaining clear navigation and a refined visual system.
+
+</details>
+
+<details>
+<summary><b>Personal Portfolio</b> — a curated collection of my work</summary>
 <br/>
 
 | Focus | Details |
@@ -79,25 +154,17 @@ My approach combines user-centered thinking, strong visual hierarchy, and respon
 | **Discipline** | UI/UX Design & Web Design |
 | **Approach** | Clear structure, thoughtful interactions, polished visual language |
 | **Format** | Responsive web experience |
-| **Explore** | [Visit the live portfolio](https://teodora-portofoliu.netlify.app/) |
+| **Explore** | [Visit my portfolio](https://teodora-portofoliu.netlify.app/) |
 
-The portfolio brings together my design perspective, selected work, and the way I approach modern digital experiences.
-
-</details>
-
-<details>
-<summary><b>GitHub Projects</b> — design and web work in progress</summary>
-<br/>
-
-| Focus | Details |
-|:---|:---|
-| **Themes** | Interface design, responsive experiences, creative development |
-| **Mindset** | Learn through building, refine through iteration |
-| **Repository** | [Explore my projects on GitHub](https://github.com/theodoooora?tab=repositories) |
-
-This collection reflects my ongoing exploration of design ideas and their transformation into functional digital experiences.
+My portfolio brings together selected projects, my design perspective, and the way I approach modern digital experiences.
 
 </details>
+
+<div align="center">
+
+[![More on GitHub](https://img.shields.io/badge/EXPLORE_MORE_ON_GITHUB-17142B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theodoooora?tab=repositories)
+
+</div>
 
 ---
 
